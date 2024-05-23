@@ -5,9 +5,7 @@
         Design, Develop, Deliver.<br> Software Engineer.
       </h1>
       <div class="flex space-x-6 mt-10 flex-wrap justify-start space-y-6">
-        <img src="../assets/images/php.png" alt="" srcset="" width="70">
         <img src="../assets/images/laravel.png" class="rounded-xl" alt="" srcset="" width="60">
-        <img src="../assets/images/mysql.png" alt="" srcset="" width="60">
         <img src="../assets/images/vue.png" alt="" srcset="" width="60">
         <img src="../assets/images/react.png" alt="" srcset="" width="60">
         <img src="../assets/images/Inertiajs.png" class="rounded-xl" alt="" srcset="" width="60">
